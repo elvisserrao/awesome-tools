@@ -1,5 +1,6 @@
 # awesome-tools
-A simple list of interesting links that can be very useful
+
+A simple list of interesting links with tools or items that can be very useful
 
 ## Tools
 
