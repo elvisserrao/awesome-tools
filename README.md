@@ -10,4 +10,4 @@ A simple list of interesting links with tools or items that can be very useful
 
 ## Must-Have Items
 
-- [Bluedio T4](https://www.gearbest.com/earbud-headphones/pp_1156989.html?wid=1433363)
+- [Bluedio T4S](https://www.gearbest.com/earbud-headphones/pp_1156989.html?wid=1433363)
