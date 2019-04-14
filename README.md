@@ -5,6 +5,8 @@ A simple list of interesting links with tools or items that can be very useful
 ## Tools
 
 - [photofeeler](https://www.photofeeler.com/) - Objective feedback on your profile photos
+- [MacOS Mojave Patcher](http://dosdude1.com/mojave/#downloads) - macOS Mojave Patcher Tool for Unsupported Macs
+
 
 ## Must-Have Items
 
