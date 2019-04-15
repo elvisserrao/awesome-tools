@@ -11,3 +11,4 @@ A simple list of interesting links with tools or items that can be very useful
 ## Must-Have Items
 
 - [Bluedio T4S](https://www.gearbest.com/earbud-headphones/pp_1156989.html?wid=1433363)
+- [Honor Band 4](https://br.gearbest.com/smart-watches/pp_009560175050.html?wid=1433363#goodsDetail)
