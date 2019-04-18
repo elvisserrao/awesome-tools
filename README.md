@@ -11,6 +11,7 @@ A simple list of interesting links with tools or items that can be very useful
 - [photofeeler](https://www.photofeeler.com/) - Objective feedback on your profile photos
 - [MacOS Mojave Patcher](http://dosdude1.com/mojave/#downloads) - macOS Mojave Patcher Tool for Unsupported Macs
 - [SAPO](https://ux.sapo.pt/) - UX guide and best practices
+- [Slides.com](https://slides.com/) - On-line tool for create slide presentations
 
 
 ## Must-Have Gadgets
