@@ -13,6 +13,7 @@ A simple list of interesting links with tools or items that can be very useful
 - [MacOS Mojave Patcher](http://dosdude1.com/mojave/#downloads) - macOS Mojave Patcher Tool for Unsupported Macs
 - [SAPO](https://ux.sapo.pt/) - UX guide and best practices
 - [Slides.com](https://slides.com/) - On-line tool for create slide presentations
+- [Prezi](https://prezi.com/) - A different type of slide presentation
 - [Colourcode](https://colourco.de/) - On-line tool to pick a color scheme
 - [Code-Standards](http://andrecomws.com/lab/code-standards/) - Code Standards and Front-End best practices
 
