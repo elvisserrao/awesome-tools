@@ -14,6 +14,7 @@ A simple list of interesting links with tools or items that can be very useful
 - [SAPO](https://ux.sapo.pt/) - UX guide and best practices
 - [Slides.com](https://slides.com/) - On-line tool for create slide presentations
 - [Prezi](https://prezi.com/) - A different type of slide presentation
+- [Figma](https://www.figma.com/) - User interface design app
 - [Colourcode](https://colourco.de/) - On-line tool to pick a color scheme
 - [Code-Standards](http://andrecomws.com/lab/code-standards/) - Code Standards and Front-End best practices
 
