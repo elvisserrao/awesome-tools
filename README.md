@@ -18,6 +18,7 @@ A simple list of interesting links with tools or items that can be very useful
 - [Colourcode](https://colourco.de/) - On-line tool to pick a color scheme
 - [Color Hunt](https://colorhunt.co/) - A free and open platform for color inspiration
 - [Code-Standards](http://andrecomws.com/lab/code-standards/) - Code Standards and Front-End best practices
+- [CloudConvert](https://cloudconvert.com/) - Convert anything to anything
 
 
 ## Must-Have Gadgets
