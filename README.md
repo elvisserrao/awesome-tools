@@ -16,6 +16,7 @@ A simple list of interesting links with tools or items that can be very useful
 - [Prezi](https://prezi.com/) - A different type of slide presentation
 - [Figma](https://www.figma.com/) - User interface design app
 - [Colourcode](https://colourco.de/) - On-line tool to pick a color scheme
+- [Color Hunt](https://colorhunt.co/) - A free and open platform for color inspiration
 - [Code-Standards](http://andrecomws.com/lab/code-standards/) - Code Standards and Front-End best practices
 
 
