@@ -6,6 +6,7 @@ A simple list of interesting links with tools or items that can be very useful
 
 - [Saylor Academy](https://www.saylor.org)
 - [Técnico em Desenvolvimento de Sistemas](http://senaiweb.fieb.org.br/senai2/cursos/desenvolvimento-de-sistemas/)
+- [Fundação Bradesco](https://www.ev.org.br/)
 
 ## Tools
 
