@@ -20,6 +20,7 @@ A simple list of interesting links with tools or items that can be very useful
 - [Color Hunt](https://colorhunt.co/) - A free and open platform for color inspiration
 - [Code-Standards](http://andrecomws.com/lab/code-standards/) - Code Standards and Front-End best practices
 - [CloudConvert](https://cloudconvert.com/) - Convert anything to anything
+- [trello](https://trello.com/) - Project manager platform
 
 
 ## Must-Have Gadgets
