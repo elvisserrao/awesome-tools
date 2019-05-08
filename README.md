@@ -21,6 +21,7 @@ A simple list of interesting links with tools or items that can be very useful
 - [Code-Standards](http://andrecomws.com/lab/code-standards/) - Code Standards and Front-End best practices
 - [CloudConvert](https://cloudconvert.com/) - Convert anything to anything
 - [trello](https://trello.com/) - Project manager platform
+- [HackerRank](https://www.hackerrank.com/) - Technology hiring platform
 
 
 ## Must-Have Gadgets
